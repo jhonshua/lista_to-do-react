@@ -19,8 +19,10 @@ requisitos previos:
 6. Conceptos de React JS (principiante)
 
 
+![ice_screenshot_20221219-001455](https://user-images.githubusercontent.com/109869139/208346453-df732a14-8b31-4297-a49d-d4696b695361.png)
 
 
+![ice_screenshot_20221219-001528](https://user-images.githubusercontent.com/109869139/208346460-f92069df-148c-491b-ad78-326c3adc93f7.png)
 
 
 
